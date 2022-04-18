@@ -27,10 +27,10 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: version
+    id: label
     attributes:
-      label: Version
-      description: What version of our software are you running?
+      label: label
+      description: What type of documentation request are you making?
       options:
         - 1.0.2 (Default)
         - 1.0.3 (Edge)
