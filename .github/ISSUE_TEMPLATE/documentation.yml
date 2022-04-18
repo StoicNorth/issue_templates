@@ -18,11 +18,8 @@ body:
     validations:
       required: false
   - type: checkboxes
-    id: label
     attributes: 
-      label: What type of documentation request are you making? 
-      description: You may select more than one 
-      multiple: true
+      description: What type of documentation request are you making? You may select more than one 
       options: 
         - label: Missing Content
         - label: New Content 
