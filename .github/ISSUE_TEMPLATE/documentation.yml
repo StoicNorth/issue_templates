@@ -28,7 +28,7 @@ body:
         - labels: New Content 
         - Labels: Broken Link
   - type: dropdown
-    id: labels
+    id: test
     attributes:
       label: Set labels for documentation request
       multiple: true
