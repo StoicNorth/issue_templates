@@ -1,14 +1,14 @@
-name: 📖 Documentation request
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
+name: 📖 Documentation Request
+description: File a request to improve Secret Network documentation
+title: "[Documentation]: "
+labels: ["Documentation"]
 assignees:
-  - octocat
+  - stoicnorth
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for taking the time to help us improve our documentation!
   - type: input
     id: contact
     attributes:
