@@ -32,7 +32,7 @@ body:
 - type: textarea
   id: request_description
   attributes:
-    label: Describe your documentation request 🤔
+    label: Describe your documentation request
     description: "What needs to happen for your request to be complete"
     placeholder: |
       The documentation is missing ...
