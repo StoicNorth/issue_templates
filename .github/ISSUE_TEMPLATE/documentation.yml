@@ -6,7 +6,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      Thank you for taking the time to raise an issue with our documentation! 🤓
+      Thank you for taking the time to raise an issue with our documentation 🤓
       
       You are helping set a new standard of online privacy 🤫
 - type: input
