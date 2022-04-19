@@ -29,8 +29,9 @@ body:
 - type: textarea
   id: request_description
   attributes:
-    label: Please describe how you would like to see our documentation change
+    label: Please describe how you would like to improve our documentation
     description: "What needs to happen for your request to be complete"
+    placeholder: I noticed that you are missing documentation related to ...
     value: |
       1.
       2.
