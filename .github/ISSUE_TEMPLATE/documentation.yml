@@ -4,7 +4,8 @@ title: "[DOCS] <title>"
 labels: [Documentation]
 body:
 - type: markdown
-  value: "## Welcome! 🤓"
+  attributes:
+    value: "## Welcome! 🤓"
 - type: markdown
   attributes:
     value: |
