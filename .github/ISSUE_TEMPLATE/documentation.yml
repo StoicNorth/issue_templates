@@ -1,6 +1,7 @@
 name: 📖 Documentation Request
 description: File a request to improve Secret Network documentation
 title: "[DOCS] <title>"
+  placeholder: test placeholder
 labels: [Documentation]
 assignees:
   - stoicnorth
