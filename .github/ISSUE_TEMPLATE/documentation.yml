@@ -9,7 +9,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      **_NOTE:_** Please search to see if an issue already exists for your request
+      <!-- **_NOTE:_** Please search to see if an issue already exists for your request. -->
 - type: input
   id: contact
   attributes:
