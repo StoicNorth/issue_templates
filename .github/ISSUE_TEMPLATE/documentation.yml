@@ -19,7 +19,7 @@ body:
       required: false
   - type: checkboxes
     attributes: 
-      label:What type of documentation request are you making?
+      label: What type of documentation request are you making?
       description: You may select more than one
       options: 
         - label: Missing Content
