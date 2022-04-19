@@ -6,7 +6,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      Thank you for taking the time to help us create better documentation!
+      Thanks for taking the time to help improve our documentation!
 - type: input
   id: contact
   attributes:
@@ -23,5 +23,20 @@ body:
     - New Content
     - Update Content
     - Broken Link
+    - Other
   validations:
     required: true
+- type: textarea
+  id: request_description
+  attributes:
+    label: Please describe how you would like to see our documentation change
+    description: "What needs to happen for your request to be complete"
+    value: |
+      1.
+      2.
+      3.
+      ...
+    render: bash
+    validations:
+      required: true
+  
