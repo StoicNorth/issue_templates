@@ -48,6 +48,7 @@ body:
     label: General feedback
     description: |
       Let us know how we are doing / share how we can do better
+    placeholder: A better internet starts with privacy
   validations:
     required: false
 - type: markdown
