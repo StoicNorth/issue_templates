@@ -8,7 +8,7 @@ body:
     value: |
       Thank you for taking the time to raise an issue with our documentation 🤓
       
-      You are helping set a new standard of online privacy 🤫
+      You are helping us build a new standard of digital privacy 🤫
 - type: input
   id: contact
   attributes:
