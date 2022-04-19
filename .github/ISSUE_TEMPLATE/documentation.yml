@@ -31,12 +31,10 @@ body:
   attributes:
     label: Please describe how you would like to improve our documentation
     description: "What needs to happen for your request to be complete"
-    value: |
-      1.
-      2.
-      3.
-      ...
-    render: markdown
+    placeholder: |
+      The documentation is missing ...
+      The following content needs to be updated ...
+      There are broken links to ...
   validations:
     required: true
   
