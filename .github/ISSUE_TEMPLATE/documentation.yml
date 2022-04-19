@@ -42,7 +42,7 @@ body:
       There are broken links ...
   validations:
     required: true
-- type: input
+- type: textarea
   id: feedback
   attributes:
     label: General feedback
