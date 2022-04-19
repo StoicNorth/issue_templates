@@ -15,7 +15,7 @@ body:
 - type: input
   id: contact
   attributes:
-    label: Contact Details
+    label: Contact details
     description: How can we get in touch with you if we need more information about your request?
     placeholder: email@example.com OR discord#0000
   validations: 
@@ -45,7 +45,7 @@ body:
 - type: input
   id: feedback
   attributes:
-    label: General Feedback
+    label: General feedback
     description: |
       Let us know how we are doing / share how we can do better
   validations:
