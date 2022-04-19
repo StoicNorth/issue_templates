@@ -3,6 +3,10 @@ description: File a request to improve Secret Network documentation
 title: "[DOCS] <title>"
 labels: [Documentation]
 body:
+- type: markdown
+  attributes:
+    value: |
+      Thank you for taking the time to help us create better documentation!
 - type: dropdown
   id: request_type
   attributes:
