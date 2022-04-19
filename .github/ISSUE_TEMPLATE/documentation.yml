@@ -2,6 +2,8 @@ name: 📖 Documentation Request
 description: File a request to improve Secret Network documentation
 title: "[DOCS] <title>"
 labels: [Documentation]
+assignees:
+  - stoicnorth
 body:
 - type: markdown
   attributes:
