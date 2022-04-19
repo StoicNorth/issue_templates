@@ -39,6 +39,12 @@ body:
       There are broken links to ...
   validations:
     required: true
+- type: textarea
+  id: examples
+  attributes:
+    label: Any examples of great developer documentation you would like to share with us? 
+  validations:
+    required: false
 - type: markdown
   attributes:
     value: |
