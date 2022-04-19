@@ -3,10 +3,13 @@ description: File a bug/issue
 title: "[BUG] <title>"
 labels: [Bug, Needs Triage]
 body:
-- type: checkboxes
+- type: dropdown
+  id: request_type
   attributes:
-    label: Is there an existing issue for this?
-    description: Please search to see if an issue already exists for the bug you encountered.
+    label: What type of documentation request are you making?  
     options:
-    - label: I have searched the existing issues
-      required: true
+    - New Content
+    - Update Content
+    - Broken Link
+  validations:
+    required: true
