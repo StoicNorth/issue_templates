@@ -8,12 +8,12 @@ body:
     value: |
       Thank you for taking the time to raise an issue with our documentation 🤓
       
-      You are helping us build a new standard of digital privacy 🤫
+      You are helping build a new standard of digital privacy 🤫
 - type: input
   id: contact
   attributes:
     label: Contact Details
-    description: How can we get in touch with you if we need more info?
+    description: How can we get in touch with you if we need more information about your request?
     placeholder: email@example.com OR discord#0000
   validations: 
     required: false
@@ -31,7 +31,7 @@ body:
 - type: textarea
   id: request_description
   attributes:
-    label: Please describe how you would like to improve our documentation
+    label: Please describe your documentation request
     description: "What needs to happen for your request to be complete"
     placeholder: |
       The documentation is missing ...
