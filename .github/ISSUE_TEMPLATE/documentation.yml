@@ -1,12 +1,12 @@
 name: 📖 Documentation Request
-description: File a bug/issue
-title: "[BUG] <title>"
-labels: [Bug, Needs Triage]
+description: Raise an issue to help improve the Secret Network documentation.  
+title: "[DOCUMENTATION] <title>"
+labels: [Documentation]
 body:
 - type: dropdown
   id: request_type
   attributes:
-    label: What type of documentation request are you making?  
+    label: What type of request are you making?  
     options:
     - New Content
     - Update Content
