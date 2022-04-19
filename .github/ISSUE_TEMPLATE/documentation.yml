@@ -48,7 +48,6 @@ body:
     label: General feedback
     description: |
       Let us know how we are doing / share how we can do better
-    tip: Links and references to great examples of documentation is appretiated
   validations:
     required: false
 - type: markdown
