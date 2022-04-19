@@ -4,11 +4,11 @@ title: "[DOCS] <title>"
 labels: [Documentation]
 body:
 - type: markdown
+  value: "## Welcome! 🤓"
+- type: markdown
   attributes:
     value: |
-      Thank you for taking the time to raise an issue with our documentation 🤓
-      
-      You are helping build a new standard of digital privacy 🤫
+      "**_NOTE:_** Please search to see if an issue already exists for your request"
 - type: input
   id: contact
   attributes:
@@ -31,12 +31,12 @@ body:
 - type: textarea
   id: request_description
   attributes:
-    label: Please describe your documentation request 🤔
+    label: Describe your documentation request 🤔
     description: "What needs to happen for your request to be complete"
     placeholder: |
       The documentation is missing ...
       The following content needs to be updated ...
-      There are broken links to ...
+      There are broken links ...
   validations:
     required: true
 - type: input
