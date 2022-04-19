@@ -20,7 +20,7 @@ body:
     placeholder: email@example.com OR discord#0000
   validations: 
     required: false
-- type: dropdown
+- type: checkboxes
   id: request_type
   attributes:
     label: What type of request are you making?  
