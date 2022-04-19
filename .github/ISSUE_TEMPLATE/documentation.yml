@@ -1,6 +1,6 @@
 name: 📖 Documentation Request
-description: Raise an issue to help improve the Secret Network documentation.  
-title: "[DOCUMENTATION] <title>"
+description: File a request to improve Secret Network documentation
+title: "[DOCS] <title>"
 labels: [Documentation]
 body:
 - type: dropdown
