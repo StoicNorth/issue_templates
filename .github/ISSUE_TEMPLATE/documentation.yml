@@ -45,7 +45,7 @@ body:
   attributes:
     label: General feedback
     description: |
-      Let us know how we are doing with our documentation.
+      Let us know how we are doing.
   validations:
     required: false
 - type: markdown
